@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-# Marcos González(https://github.com/MG Dev)
+# [Tu nombre](https://github.com/[tu nombre de usuario])
 
 ![Imagen de portada](https://url-de-tu-imagen-de-portada)
 
@@ -42,5 +39,3 @@ Escribe una breve descripción de quién eres, qué haces y qué tipo de proyect
 * [Palabra clave 1]
 * [Palabra clave 2]
 * [Palabra clave 3]
-
--->
