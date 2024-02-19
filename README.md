@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-# Marcos González(https://github.com/MG Dev
+# Marcos González(https://github.com/MG Dev)
 
 ![Imagen de portada](https://url-de-tu-imagen-de-portada)
 
