@@ -1,16 +1,46 @@
 ### Hi there 👋
 
 <!--
-**Hades-Dark-X/Hades-Dark-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Marcos González(https://github.com/MG Dev
 
-Here are some ideas to get you started:
+![Imagen de portada](https://url-de-tu-imagen-de-portada)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Descripción:**
+
+Escribe una breve descripción de quién eres, qué haces y qué tipo de proyectos te interesan.
+
+**Enlaces:**
+
+* [Sitio web](https://tu-sitio-web.com)
+* [LinkedIn](https://www.linkedin.com/in/[tu nombre de usuario])
+* [Twitter](https://twitter.com/[tu nombre de usuario])
+
+**Tecnologías:**
+
+* Python
+* JavaScript
+* HTML
+* CSS
+
+**Contacto:**
+
+* Correo electrónico: [tu-correo-electrónico]
+* [Formulario de contacto](https://tu-formulario-de-contacto.com)
+
+**Proyectos:**
+
+* [Nombre del proyecto 1](https://github.com/[tu nombre de usuario]/[nombre-del-proyecto-1])
+* [Nombre del proyecto 2](https://github.com/[tu nombre de usuario]/[nombre-del-proyecto-2])
+
+**Estadísticas:**
+
+* [![GitHub stars](https://img.shields.io/github/stars/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
+* [![GitHub forks](https://img.shields.io/github/forks/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
+
+**Palabras clave:**
+
+* [Palabra clave 1]
+* [Palabra clave 2]
+* [Palabra clave 3]
+
 -->
