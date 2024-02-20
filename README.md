@@ -1,8 +1,8 @@
-# [Marcos González](https://github.com/[Hades-Dark-X])
+# [Marcos González](https://github.com/[Hades-Dark-X]) 
 
-![Imagen de portada](https://url-de-tu-imagen-de-portada)
+![Imagen de portada](bannner.png)
 
-**Bio:**
+**Bio:**  :bird:
 ````javascript 
 
 const bio = () => {
@@ -17,7 +17,7 @@ const bio = () => {
 bio();
 
 ````
-**Social Media:**
+**Social Media:** :wolf:
 
 ````javascript 
 
@@ -39,36 +39,26 @@ socialMedia();
 
 
 > [!TIP]
-> Social Media:
+> Social Media: :bug:
 
 
 * [LinkedIn](https://www.linkedin.com/in/[marcosgonzalezchavez])
 * [Github](https://twitter.com/[Hades-Dark-X])
 
-**Tecnologías:**
+> [!IMPORTANT]
+> Tecnologías: :ant:
 
-* Python
-* JavaScript
-* HTML
-* CSS
+* Lenguajes de programación: JavaScript , Python , C++ 
+  * Frameworks: TensorFlow , PyTorch , React ⚛️
+  * Bibliotecas: NumPy , Pandas , Scikit-learn 
+  * Herramientas: Git , GitHub , Docker 
 
-**Contacto:**
 
-* Correo electrónico: [tu-correo-electrónico]
-* [Formulario de contacto](https://tu-formulario-de-contacto.com)
 
-**Proyectos:**
 
-* [Nombre del proyecto 1](https://github.com/[tu nombre de usuario]/[nombre-del-proyecto-1])
-* [Nombre del proyecto 2](https://github.com/[tu nombre de usuario]/[nombre-del-proyecto-2])
 
 **Estadísticas:**
 
 * [![GitHub stars](https://img.shields.io/github/stars/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
 * [![GitHub forks](https://img.shields.io/github/forks/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
 
-**Palabras clave:**
-
-* [Palabra clave 1]
-* [Palabra clave 2]
-* [Palabra clave 3]
