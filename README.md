@@ -1,16 +1,49 @@
-# [Tu nombre](https://github.com/[tu nombre de usuario])
+# [Marcos González](https://github.com/[Hades-Dark-X])
 
 ![Imagen de portada](https://url-de-tu-imagen-de-portada)
 
-**Descripción:**
+**Bio:**
+````javascript 
 
-Escribe una breve descripción de quién eres, qué haces y qué tipo de proyectos te interesan.
+const bio = () => {
+  console.log(
+    
+`Apacionado por el desarrollo web y las tecnologías de vanguarda, con solido conocimiento en:
+ HTML5, CSS3, Javascript, React, Node JS, My SQL,mi enfoque se centra en la resolución de problemas
+ y la adaptabilidad a nuevos desafios.
+  `);
+};
 
-**Enlaces:**
+bio();
 
-* [Sitio web](https://tu-sitio-web.com)
-* [LinkedIn](https://www.linkedin.com/in/[tu nombre de usuario])
-* [Twitter](https://twitter.com/[tu nombre de usuario])
+````
+**Social Media:**
+
+````javascript 
+
+const socialMedia = () => {
+  console.log(`
+  
+  Aquí puedes encontrarme en las redes sociales:
+
+  * Github: https://github.com/Hades-Dark-X
+  * LinkedIn: https://www.linkedin.com/in/marcosgonzalezchavez
+
+  ¡Estaré encantado de que me contactes! 
+  `);
+};
+
+socialMedia();
+
+````
+
+
+> [!TIP]
+> Social Media:
+
+
+* [LinkedIn](https://www.linkedin.com/in/[marcosgonzalezchavez])
+* [Github](https://twitter.com/[Hades-Dark-X])
 
 **Tecnologías:**
 
