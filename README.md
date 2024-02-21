@@ -41,7 +41,9 @@ socialMedia();
 > [!TIP]
 > Social Media: :bug:
 
-![Github](github.png)  ![Linkedin](linkedin.png)
+[![GitHub](github.png)](https://github.com/Hades-Dark-X)
+[![Linkedin](linkedin.png)](https://www.linkedin.com/in/marcosgonzalezchavez)
+
 
 > [!IMPORTANT]
 > Tecnologías: :ant:
@@ -57,6 +59,6 @@ socialMedia();
 
 **Estadísticas:**
 
-* [![GitHub stars](https://img.shields.io/github/stars/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
-* [![GitHub forks](https://img.shields.io/github/forks/[tu nombre de usuario]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
+* [![GitHub stars](https://img.shields.io/github/stars/[Hades-Dark-X]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
+
 
