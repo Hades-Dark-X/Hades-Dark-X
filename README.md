@@ -59,6 +59,6 @@ socialMedia();
 
 **Estadísticas:**
 
-* [![GitHub stars](https://img.shields.io/github/stars/[Hades-Dark-X]/[nombre-del-repositorio].svg?style=social)](https://github.com/[tu nombre de usuario]/[nombre-del-repositorio])
+* [![GitHub stars](https://img.shields.io/github/stars/[Hades-Dark-X]/[Game-Store].svg?style=social)](https://github.com/[Hades-Dark-X]/[Game-Store])
 
 
