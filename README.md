@@ -41,9 +41,7 @@ socialMedia();
 > [!TIP]
 > Social Media: :bug:
 
-
-* [LinkedIn](https://www.linkedin.com/in/[marcosgonzalezchavez])
-* [Github](https://twitter.com/[Hades-Dark-X])
+![Github](github.png)  ![Linkedin](linkedin.png)
 
 > [!IMPORTANT]
 > Tecnologías: :ant:
