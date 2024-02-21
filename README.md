@@ -48,10 +48,9 @@ socialMedia();
 > [!IMPORTANT]
 > Tecnologías: :ant:
 
-* Lenguajes de programación: JavaScript , Python , C++ 
-  * Frameworks: TensorFlow , PyTorch , React ⚛️
-  * Bibliotecas: NumPy , Pandas , Scikit-learn 
-  * Herramientas: Git , GitHub , Docker 
+ * Lenguajes de programación: JavaScript
+  * Frameworks: Express, React, Material UI
+  * Herramientas: Git, GitHub, NPM, Slack, CMD, Linux
 
 
 
